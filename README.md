@@ -23,7 +23,7 @@
   ![Android Studio](https://img.shields.io/badge/androidstudio-143?style=for-the-badge&logo=androidstudio)
   
   <img height="180em" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
- 
+
  
 
 ## <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> My Status.
@@ -40,7 +40,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/ahmed-kamal-464201215"><img src="https://img.shields.io/badge/-Ahmed Kamal-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:ak0850000@gmail.com"><img src="https://img.shields.io/badge/-Ahmed Kamal-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:ahmed.kamal.hamed0@gmail.com"><img src="https://img.shields.io/badge/-Ahmed Kamal-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.facebook.com/profile.php?id=100009642342365"><img src="https://img.shields.io/badge/-Ahmed Kamal-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
 <a href="https://www.instagram.com/ahmed__kamall_/"><img src="https://img.shields.io/badge/-Ahmed Kamal-8a3ab9?style=flat-square&logo=instagram&logoColor=white"/></a>
 <a href="https://api.whatsapp.com/send/?phone=+201008928356"><img src="https://img.shields.io/badge/-Ahmed Kamal-25D366?style=flat-square&logo=whatsapp&logoColor=white"/></a>
