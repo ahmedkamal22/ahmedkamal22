@@ -4,7 +4,6 @@
 ### 💻 &nbsp;About Me. 
 
 - 🤔 &nbsp; I Love Exploring new technologies and developing software solutions to our worlds tech problems.
-- 🎓 &nbsp; I am Studying Computer Science at Modern Academy For Science And Technology.
 
 
 ### 🛠 &nbsp;Preferred Languages.
